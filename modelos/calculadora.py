@@ -16,3 +16,6 @@ while True:
         print(resultado3)
     elif operação == "/":
         resultado4 = numero1 / numero2
+    resposta = input("quer continuar s ou n")
+    if resposta == "n":
+        break
