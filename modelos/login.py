@@ -2,7 +2,7 @@
 pessoas = []
 
 while True:
-
+    
     print ("1 cadrastar")
     print ("2 login")
     print ("3 sair")
